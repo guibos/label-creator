@@ -1,0 +1,14 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, 3.35cm);
+}
+
+.grid-element {
+    height: 1.95cm;
+    border: 1px solid;
+    padding: 0.2cm 0.15cm;
+}
+.text {
+    margin: 0px 3px;
+    font-size: 12px;
+}
